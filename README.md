@@ -1,4 +1,4 @@
-# PHP-MODERNO
+# Curso de PHP MODERNO - Curso em Vídeo
 Esse repositório concentra todos os exercícios que fiz acompanhando o curso.
 
 ## `O que eu aprendi:`
